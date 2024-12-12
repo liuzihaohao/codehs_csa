@@ -1,0 +1,6 @@
+null object is null
+
+
+and the not basic things is addr of memory, so it can't ==
+
+it can use .equal

@@ -1,0 +1,3 @@
+1.small time
+2.for loop
+3.loop

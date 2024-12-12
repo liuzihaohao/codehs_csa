@@ -1,0 +1,17 @@
+What was wrong with the program?
+
+Code is wrong;
+
+
+
+What expression was the programmer trying to use that gave the error? Relate your answer to De Morgan's Laws.
+
+
+expression is wrong;
+
+
+
+How did you resolve the error?
+
+
+I change it;
