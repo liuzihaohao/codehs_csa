@@ -1,0 +1,13 @@
+1. What are the primary differences between Arrays and ArrayLists?
+
+
+
+2. Why might you use an Array instead of an ArrayList?
+
+
+
+3. Why might you use an ArrayList instead of an Array?
+
+
+
+4. How are Arrays and ArrayLists similar?
