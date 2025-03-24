@@ -6,7 +6,23 @@ public  class TeamTester {
         Team lizards = new Team("Lizards", "New York", 9, 5);
 
         //Print out all available information for the Dolphins
-
+        System.out.println(dolphins.getTies());
+        System.out.println(dolphins.getName());
+        System.out.println(dolphins.getLocation());
+        System.out.println(dolphins.getWins());
+        System.out.println(dolphins.getLosses());
+        System.out.println(dolphins);
+        System.out.println(cubs.getName());
+        System.out.println(cubs.getLocation());
+        System.out.println(cubs.getWins());
+        System.out.println(cubs.getLosses());
+        System.out.println(cubs);
+        System.out.println(lizards.getName());
+        System.out.println(lizards.getLocation());
+        System.out.println(lizards.getWins());
+        System.out.println(lizards.getLosses());
+        System.out.println(lizards);
+        
 
         //Print out all available information for the Cubs
 

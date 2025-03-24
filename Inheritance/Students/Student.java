@@ -5,7 +5,11 @@ public class Student
     private double gpa;
     
    // Constructor goes here
-   
+   public Student(String name, int id, double gpa){
+       this.name=name;
+       this.id=id;
+       this.gpa=gpa;
+   }
    
     public String getName(){
        return name;
